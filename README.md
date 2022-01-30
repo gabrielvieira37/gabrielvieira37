@@ -3,7 +3,8 @@
 Commits at Bitbucket from september 2018 until january 2022 aggregated by week :)
 
 
-![commits_2022](https://user-images.githubusercontent.com/19720037/151716171-f7a609f4-8a09-40a7-926e-c16c985cae1d.jpg)
+![commits_2022](https://user-images.githubusercontent.com/19720037/151716413-c5f903a8-6fdb-4372-a9f3-eb41ee0481d7.jpg)
+
 
 <!--
 **gabrielvieira37/gabrielvieira37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
